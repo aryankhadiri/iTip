@@ -27,14 +27,12 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+https://github.com/aryankhadiri/iTip/blob/master/iTip%20Gif.gif
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-
+The new version of Xcode is a little different than the one in the walkthrough video. I had to create a different kind of project(using storyboard) to get the elements of which the video required. 
 ## License
 
     Copyright [yyyy] [name of copyright owner]
